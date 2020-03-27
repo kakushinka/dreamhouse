@@ -11,8 +11,6 @@ public with sharing class SampleDataController {
             insertContacts();
             //test
 
-            
-
 
         } catch (Exception e) {
             System.debug(e);
