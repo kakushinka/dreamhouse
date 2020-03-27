@@ -9,10 +9,7 @@ public with sharing class SampleDataController {
             insertBrokers();
             insertProperties();
             insertContacts();
-            //te
-
-
-            
+            //test
 
         } catch (Exception e) {
             System.debug(e);
