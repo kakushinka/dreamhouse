@@ -10,6 +10,8 @@ public with sharing class SampleDataController {
             insertProperties();
             insertContacts();
             //test
+
+
             
 
 
