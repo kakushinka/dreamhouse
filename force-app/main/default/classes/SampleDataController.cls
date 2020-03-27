@@ -10,6 +10,7 @@ public with sharing class SampleDataController {
             insertProperties();
             insertContacts();
             //tes
+
             
         } catch (Exception e) {
             System.debug(e);
