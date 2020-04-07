@@ -6,7 +6,6 @@ public with sharing class SampleDataController {
             delete [SELECT Id FROM Broker__c];
             delete [SELECT Id FROM Contact];
 
-            
             insertBrokers();
             insertProperties();
             insertContacts();
